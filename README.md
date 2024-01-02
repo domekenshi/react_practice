@@ -1,1 +1,1 @@
-# react_practice
+# r練習用Reactリポジトリ
