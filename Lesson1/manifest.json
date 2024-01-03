@@ -1,0 +1,15 @@
+{
+  "name": "アプリの名前",
+  "short_name": "短縮名",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "description": "練習用アプリ",
+  "icons": [
+    {
+      "src": "path/to/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

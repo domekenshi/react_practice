@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  @apply text-4xl;
+}
+button {
+  @apply rounded-lg
+  border-lime-400
+  bg-lime-400
+  px-5
+  mt-48
+  
+  border-8;
+}
+.block {
+  @apply mt-5;
+}
+.container {
+  @apply flex
+  flex-col
+  py-10
+  px-5
+  justify-center
+  items-center;
+}
